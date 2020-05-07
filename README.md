@@ -1,6 +1,6 @@
 # flutter_checks_github_actions
 
-Example repository to the post [Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld).
+Example repository to the post [Run checks for Flutter projects with GitHub Actions](https://dev.to/arthurdenner/run-checks-for-flutter-projects-with-github-actions-7ld). Results [here](https://github.com/arthurdenner/flutter_checks_github_actions/pull/1).
 
 ## Getting Started
 
